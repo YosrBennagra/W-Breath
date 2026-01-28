@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../3SC/3SC.Widgets.Contracts/3SC.Widgets.Contracts.csproj" />
+  <Project Path="W-Breath/W-Breath.csproj" />
+</Solution>
